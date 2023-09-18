@@ -1,6 +1,6 @@
 # RGB Color Code Generator
 
-![RGB Color Code Generator](link-to-your-project-image)
+
 
 ## Overview
 
