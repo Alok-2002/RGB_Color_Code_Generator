@@ -1,25 +1,3 @@
-// // script.js
-// const redSlider = document.getElementById("redSlider");
-// const greenSlider = document.getElementById("greenSlider");
-// const blueSlider = document.getElementById("blueSlider");
-// const colorPreview = document.getElementById("colorPreview");
-
-// // Function to update the background color
-// function updateColor() {
-//     const redValue = redSlider.value;
-//     const greenValue = greenSlider.value;
-//     const blueValue = blueSlider.value;
-//     colorPreview.style.backgroundColor = `rgb(${redValue}, ${greenValue}, ${blueValue})`;
-// }
-
-// // Add event listeners to the sliders
-// redSlider.addEventListener("input", updateColor);
-// greenSlider.addEventListener("input", updateColor);
-// blueSlider.addEventListener("input", updateColor);
-
-// // Initial update of the color
-// updateColor();
-
 const redSlider = document.getElementById("redSlider");
 const greenSlider = document.getElementById("greenSlider");
 const blueSlider = document.getElementById("blueSlider");
